@@ -4,6 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
- <a href="profile.html">View Profile</a>
+ <a href="profile.php">View Profile</a>
  </body>
 </html>
